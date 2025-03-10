@@ -636,7 +636,6 @@ binding-node-js-macos:
 
 binding-node-js-linux:
   stage: binding-build
-  tags:
     - docker
   image: ingescape/ubuntu18.04-node
   variables:
