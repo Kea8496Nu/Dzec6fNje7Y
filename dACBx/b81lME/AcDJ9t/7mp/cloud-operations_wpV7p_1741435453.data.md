@@ -73,7 +73,6 @@ $ kubectl apply -f https://raw.githubusercontent.com/tongdun/td-redis-operator/m
 你可以<a href="https://github.com/tongdun/td-redis-operator/wiki/常见问题回答">点击这里查看常见问题集锦</a>，也可以<a href="https://github.com/tongdun/td-redis-operator/issues">点击这里给我们提交issue</a>。
 
 <br>
-    
 # 社区微信群
     
 欢迎扫码加入我们的开源社区微信群，进行详细的沟通交流：
