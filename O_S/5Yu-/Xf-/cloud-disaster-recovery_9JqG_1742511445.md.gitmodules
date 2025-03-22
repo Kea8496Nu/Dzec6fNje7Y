@@ -1,6 +1,5 @@
 [submodule "src/cf-containers-broker"]
 	path = src/cf-containers-broker
-[submodule "src/dingo-postgresql-clusterdata-backup"]
 	path = src/dingo-postgresql-clusterdata-backup
 	url = https://github.com/dingotiles/dingo-postgresql-clusterdata-backup.git
 [submodule "src/dingo-postgresql-broker"]
