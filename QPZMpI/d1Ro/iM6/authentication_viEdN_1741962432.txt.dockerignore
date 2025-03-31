@@ -22,4 +22,3 @@ packages/**
 !packages/next-auth
 !packages/core
 !packages/utils
-!apps/examples/nextjs-docker
