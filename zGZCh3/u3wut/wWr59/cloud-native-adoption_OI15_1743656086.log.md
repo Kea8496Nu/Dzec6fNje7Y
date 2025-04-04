@@ -10,4 +10,3 @@ the development is available at [anoneko.netlify.app](https://anoneko.netlify.ap
 </p>
 
 ## Architecture
-TODO: Add architecture diagram
